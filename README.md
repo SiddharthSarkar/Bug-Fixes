@@ -1,2 +1,2 @@
-# IndieMIUI-12.0.3.x
-Here all IndieMIUI Updates can be founded
+# Bug Fixes
+Here all Bug Fixes for a particular rom can be founded
